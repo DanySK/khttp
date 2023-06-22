@@ -29,8 +29,8 @@ jobs:
       - uses: DanySK/build-check-deploy-gradle-action@2.2.6
         with:
           deploy-command: |
-            ./gradlew signKotlinMavenPublication --parallel
-            ./gradlew closeKotlinMavenOnMavenCentralNexus
+            ./gradlew signKotlinOSSRHPublication --parallel
+            ./gradlew uploadKotlinOSSRHToMavenCentralNexus closeStagingRepositoryOnMavenCentral
           should-run-codecov: ${{ contains('Linux', runner.os) }}
           should-deploy: >-
             ${{

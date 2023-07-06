@@ -1,3 +1,16 @@
+## [1.3.1](https://github.com/DanySK/khttp/compare/1.3.0...1.3.1) (2023-07-06)
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v1.9.0 ([148a277](https://github.com/DanySK/khttp/commit/148a277466a7bd61b40a5eca88a191b8d5537024))
+* **deps:** update dependency gradle to v8.2 ([80c4402](https://github.com/DanySK/khttp/commit/80c44024d9b23adeebea91c8f4b6459fcf71dcd5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.38 ([ffc015c](https://github.com/DanySK/khttp/commit/ffc015c25f725263e4fe85445e57dc74f7fb0a4e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.39 ([60d6991](https://github.com/DanySK/khttp/commit/60d6991ce774b9a6a4fb2361a36e4352574caf88))
+* **deps:** update plugin multijvmtesting to v0.5.3 ([16daaa3](https://github.com/DanySK/khttp/commit/16daaa36c0462bc98f1a37b1b33f1787f3662f01))
+* **deps:** update plugin publishoncentral to v5.0.8 ([b71ed5b](https://github.com/DanySK/khttp/commit/b71ed5b89caa6b5c82aa71658a3ce9ba1eefe2d5))
+* **deps:** update plugin publishoncentral to v5.0.9 ([ecdb006](https://github.com/DanySK/khttp/commit/ecdb00640e37e4ac8fb0f28797fc8e570f13078b))
+
 ## [1.3.0](https://github.com/DanySK/khttp/compare/1.2.3...1.3.0) (2023-06-22)
 
 

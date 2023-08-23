@@ -1,3 +1,28 @@
+## [1.3.2](https://github.com/DanySK/khttp/compare/1.3.1...1.3.2) (2023-08-23)
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.7 ([f9ceb27](https://github.com/DanySK/khttp/commit/f9ceb27de1e869585a45c82304b96cc97ca1be60))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.8 ([f021e7a](https://github.com/DanySK/khttp/commit/f021e7a6a0baf2b2376d0391fa06f894f2283664))
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v1.9.10 ([8694de9](https://github.com/DanySK/khttp/commit/8694de978e9cf6478443857f8bf59e31c57c2396))
+* **deps:** update dependency gradle to v8.2.1 ([3495b63](https://github.com/DanySK/khttp/commit/3495b639906bf6ae411a99737ed9220608066358))
+* **deps:** update dependency gradle to v8.3 ([4572625](https://github.com/DanySK/khttp/commit/4572625adf6536e4f6e6fe2b3287f2bd7dc67f98))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.40 ([f364f4d](https://github.com/DanySK/khttp/commit/f364f4d3f43682ed9ec82e28c591d456bb61ced1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.41 ([a780cba](https://github.com/DanySK/khttp/commit/a780cba3396d5c645fddbc2edb75cb22a3393196))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.42 ([a8e9335](https://github.com/DanySK/khttp/commit/a8e93354ae084a94631057638ae29f26c1be25b6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.43 ([1ecb894](https://github.com/DanySK/khttp/commit/1ecb894e97d2944b0c75e0d0079fa7772881ea44))
+* **deps:** update node.js to 18.17 ([29f51a8](https://github.com/DanySK/khttp/commit/29f51a8e541572c24dc34b5865fc0450b859b0a2))
+* **deps:** update plugin multijvmtesting to v0.5.4 ([6f8b74c](https://github.com/DanySK/khttp/commit/6f8b74c5ade97082db4cbe4c1b708d2427a78464))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.6.0 ([0cb273b](https://github.com/DanySK/khttp/commit/0cb273bb875a46644c5be374944f1fdd338c755a))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.7.0 ([b300588](https://github.com/DanySK/khttp/commit/b3005886ff6e75cab8232d56f23f0153238db863))
+* **deps:** update plugin publishoncentral to v5.0.10 ([f582fd3](https://github.com/DanySK/khttp/commit/f582fd3ca4cfb95272987cbbbcbff5a14c50eab5))
+* **deps:** update plugin publishoncentral to v5.0.11 ([35da26c](https://github.com/DanySK/khttp/commit/35da26cd28b51ad69809331ba0ca57735d7c6264))
+
 ## [1.3.1](https://github.com/DanySK/khttp/compare/1.3.0...1.3.1) (2023-07-06)
 
 

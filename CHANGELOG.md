@@ -1,3 +1,53 @@
+## [1.4.0](https://github.com/DanySK/khttp/compare/1.3.2...1.4.0) (2023-10-14)
+
+
+### Dependency updates
+
+* **api-deps:** update dependency org.json:json to v20231013 ([64741de](https://github.com/DanySK/khttp/commit/64741deb9ec70829ed3364737c08e584a9529058))
+* **deps:** update dependency gradle to v8.4 ([377c2fb](https://github.com/DanySK/khttp/commit/377c2fb353441c0e2d93ddb0a648f449e70b3b1d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.44 ([ec94839](https://github.com/DanySK/khttp/commit/ec94839bcca66927cc74764d0987192f8c492400))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.46 ([26e540c](https://github.com/DanySK/khttp/commit/26e540c3aa616c36e7f4b77a00bca276a6a95a8b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.47 ([d5330b6](https://github.com/DanySK/khttp/commit/d5330b6e9a39dea8f7838a38084b735dc5c12a30))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.48 ([ea5bb04](https://github.com/DanySK/khttp/commit/ea5bb0423548bdd3cbd63b4444457410c93c32a5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.49 ([c65e1af](https://github.com/DanySK/khttp/commit/c65e1afe73c1eeaa7cb2a9483467d953def93c7c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.50 ([25a511d](https://github.com/DanySK/khttp/commit/25a511d96faafe644b6739cb6cca2273ffd7254c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.51 ([f5fdbe2](https://github.com/DanySK/khttp/commit/f5fdbe25d9299aad1c8d05c01ea40ea6426b800d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.52 ([57d2f97](https://github.com/DanySK/khttp/commit/57d2f97bb00234a04fe8f3029ab5edca11c22f1a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.53 ([32f3add](https://github.com/DanySK/khttp/commit/32f3addb07a7373a2b7f1e025d5b02968d6c941a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.54 ([7ba1cff](https://github.com/DanySK/khttp/commit/7ba1cffcb2fe882c99fa12f12ff3cc16fdfe0f3e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.55 ([759669e](https://github.com/DanySK/khttp/commit/759669eac2d800f4548e3cd9016c63a46998e659))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.56 ([cdeeea7](https://github.com/DanySK/khttp/commit/cdeeea7188eaab2b4431384ac11d9abe5108e913))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.58 ([b921ae8](https://github.com/DanySK/khttp/commit/b921ae8af52b7548a1e9ce26c6d962ad5ce987c3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.59 ([4369cb1](https://github.com/DanySK/khttp/commit/4369cb1dc3f3204839bf8e47cd0e7a01e6469e05))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.60 ([4910c70](https://github.com/DanySK/khttp/commit/4910c700c3a891127414ccd85d04a1f2694fd749))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.61 ([b1e7ef3](https://github.com/DanySK/khttp/commit/b1e7ef307f6cf0d8cd84c95a6bb6120bc643f81e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.62 ([3d985a3](https://github.com/DanySK/khttp/commit/3d985a3c5ac4e00a7c689a78a12c3fe6e77aaca1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.63 ([bb34fd9](https://github.com/DanySK/khttp/commit/bb34fd9f781a00f00d05a77bbd441c7bdceade49))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.64 ([ec97318](https://github.com/DanySK/khttp/commit/ec97318cd279732e2d37f058e31e93a285597c72))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.65 ([885e5f3](https://github.com/DanySK/khttp/commit/885e5f34268228ccc578ab4d5e3f834f7da61e9c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.66 ([a3a887b](https://github.com/DanySK/khttp/commit/a3a887b05b46535dd63bd98ad196dc85892439a1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.67 ([82cd43a](https://github.com/DanySK/khttp/commit/82cd43a2d7e6884c271745fd76e7a2ba2fa0023e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.68 ([7d2d759](https://github.com/DanySK/khttp/commit/7d2d759c3709b8743aec8fd3ef0e3dfce39cb288))
+* **deps:** update node.js to 18.18 ([e98df1e](https://github.com/DanySK/khttp/commit/e98df1ecfcc6ee32a99ee4dcd5e8d4b223463a5d))
+* **deps:** update plugin dokka to v1.9.0 ([12377f8](https://github.com/DanySK/khttp/commit/12377f86735be27d03e7e78adb647fbf17ff48c3))
+* **deps:** update plugin multijvmtesting to v0.5.5 ([fd01d6b](https://github.com/DanySK/khttp/commit/fd01d6b11033c0f511d43de7748267ed3b76524d))
+* **deps:** update plugin publishoncentral to v5.0.12 ([a38cd11](https://github.com/DanySK/khttp/commit/a38cd117281644538616def5141173ed2c541d25))
+* **deps:** update plugin publishoncentral to v5.0.13 ([4efb82c](https://github.com/DanySK/khttp/commit/4efb82c119537e230a65ca93e8fa9d3505ffcf8b))
+* **deps:** update plugin publishoncentral to v5.0.14 ([41b36da](https://github.com/DanySK/khttp/commit/41b36daa7459ee59fb25dd1fbbcb7193687d227f))
+* **deps:** update plugin publishoncentral to v5.0.15 ([16bdf92](https://github.com/DanySK/khttp/commit/16bdf92b9a051ccfde96d4f411b5ab781ce36ea0))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.6.0 ([96e3fb9](https://github.com/DanySK/khttp/commit/96e3fb9d32088e66fc18ee05c5f9ac1749139fcf))
+* **deps:** update actions/checkout action to v4 ([ac85d7d](https://github.com/DanySK/khttp/commit/ac85d7d9180646aba78f02d996ff5d390ca104a1))
+* **deps:** update actions/checkout action to v4.1.0 ([ae2d02a](https://github.com/DanySK/khttp/commit/ae2d02ada9679f6ef6d177f058f1a99812e7b7a1))
+* **deps:** update danysk/action-checkout action to v0.2.11 ([20f157b](https://github.com/DanySK/khttp/commit/20f157b3c3c169018574848e3fb4588fa557baa5))
+* **deps:** update danysk/action-checkout action to v0.2.12 ([6a02fcf](https://github.com/DanySK/khttp/commit/6a02fcf8dcc04045b02aa39f72d3c9d079c1e714))
+* **deps:** update danysk/action-checkout action to v0.2.13 ([723cf1c](https://github.com/DanySK/khttp/commit/723cf1cf4f1ad0d73d73b62fcf3ec4cf3d3b7a1c))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.10 ([7e87757](https://github.com/DanySK/khttp/commit/7e877575304ce1e51b3836e8626374455286fe8e))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.9 ([312e30c](https://github.com/DanySK/khttp/commit/312e30c78e4de1db2a3ecf73a4a6ba257cbf5845))
+
 ## [1.3.2](https://github.com/DanySK/khttp/compare/1.3.1...1.3.2) (2023-08-23)
 
 

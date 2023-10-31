@@ -1,3 +1,28 @@
+## [1.4.1](https://github.com/DanySK/khttp/compare/1.4.0...1.4.1) (2023-10-31)
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v1.9.20 ([4b031cd](https://github.com/DanySK/khttp/commit/4b031cdd1abc4376b2417a555016c427e091fd89))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.69 ([fc647b7](https://github.com/DanySK/khttp/commit/fc647b7c703f6a0b5a9b18e6ebd87ac03bb757a6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.70 ([2e55768](https://github.com/DanySK/khttp/commit/2e5576895c358a6ebbf826db4c8e4f3c3e5e9367))
+* **deps:** update node.js to 20.9 ([90a333c](https://github.com/DanySK/khttp/commit/90a333c0962556dfafd964b4769dd6ab31bc58de))
+* **deps:** update node.js to v20 ([2599afa](https://github.com/DanySK/khttp/commit/2599afa39d85eff7742638a99d1ad3b0e48f298b))
+* **deps:** update plugin dokka to v1.9.10 ([afdf3ee](https://github.com/DanySK/khttp/commit/afdf3ee3303de7c79a502085cb8a2b0b61c44446))
+* **deps:** update plugin gitsemver to v1.1.11 ([539b92d](https://github.com/DanySK/khttp/commit/539b92de3fc77db14b1e9268743bc242f963568a))
+* **deps:** update plugin gitsemver to v1.1.13 ([38b80a8](https://github.com/DanySK/khttp/commit/38b80a81622542449920c1ec581cb20387b866ad))
+* **deps:** update plugin gitsemver to v1.1.14 ([4aeb794](https://github.com/DanySK/khttp/commit/4aeb794e0eaf8a40260e4b5714407da5968a172e))
+* **deps:** update plugin gitsemver to v1.1.15 ([4b63b81](https://github.com/DanySK/khttp/commit/4b63b81adf6edd5e1ff5c8c06b8a385b0b958501))
+* **deps:** update plugin gitsemver to v2 ([b96f49c](https://github.com/DanySK/khttp/commit/b96f49ce8cb4d3bb4d00881b4828beb32c344138))
+* **deps:** update plugin multijvmtesting to v0.5.6 ([6a8dae1](https://github.com/DanySK/khttp/commit/6a8dae1b13323251ff607c0a7b503ae343d87541))
+* **deps:** update plugin publishoncentral to v5.0.16 ([c374c55](https://github.com/DanySK/khttp/commit/c374c55b9657b7eb1917d316fcae0c86d2ffc2e3))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.1 ([5c0ac21](https://github.com/DanySK/khttp/commit/5c0ac212c59c9e0d7245598215c447c175b09585))
+* **deps:** update danysk/action-checkout action to v0.2.14 ([cbae319](https://github.com/DanySK/khttp/commit/cbae3196c454d9b0bc66f3175e05035d1bcedcd6))
+
 ## [1.4.0](https://github.com/DanySK/khttp/compare/1.3.2...1.4.0) (2023-10-14)
 
 

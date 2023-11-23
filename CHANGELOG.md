@@ -1,3 +1,27 @@
+## [1.4.2](https://github.com/DanySK/khttp/compare/1.4.1...1.4.2) (2023-11-23)
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v1.9.21 ([4f6397e](https://github.com/DanySK/khttp/commit/4f6397e449af95da9445dbe2afbee90f257f5c3c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.71 ([e32283a](https://github.com/DanySK/khttp/commit/e32283a810fe95502f3a2388ac24934822d4cc6b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.72 ([23b05a9](https://github.com/DanySK/khttp/commit/23b05a93def989293996da745d2335c3272c2782))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.73 ([4089aa5](https://github.com/DanySK/khttp/commit/4089aa54c3c7e0c3b89b7e567279a42e51bcdfb6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.74 ([d6160c2](https://github.com/DanySK/khttp/commit/d6160c2bfc1284ebf2b8e4d253215e80f8943e61))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.75 ([8f56ea1](https://github.com/DanySK/khttp/commit/8f56ea14b4f634629aba12a0e84f9aad4d9bd188))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.76 ([77f81ba](https://github.com/DanySK/khttp/commit/77f81ba1d76f5e626676cf12a1ad21317ff53351))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.77 ([c5b10b8](https://github.com/DanySK/khttp/commit/c5b10b81d5b21bfad658fb768675fe37fa60dc7e))
+* **deps:** update node.js to 20.10 ([52aa8cd](https://github.com/DanySK/khttp/commit/52aa8cdafde20fb577b6a2de814d7cd634f75ee8))
+* **deps:** update plugin gitsemver to v2.0.1 ([7098105](https://github.com/DanySK/khttp/commit/70981058d377517f49ce6ef667ef864969d9294a))
+* **deps:** update plugin gitsemver to v2.0.2 ([1ede5a3](https://github.com/DanySK/khttp/commit/1ede5a33f735deb90d84bc7eb2fd23d3f7de9a0d))
+* **deps:** update plugin publishoncentral to v5.0.18 ([661c3a5](https://github.com/DanySK/khttp/commit/661c3a5097accb42edbedf08a75285158de6bee1))
+* **deps:** update plugin publishoncentral to v5.0.19 ([5786403](https://github.com/DanySK/khttp/commit/5786403807ca957bcb63a62fb87e2158285d460b))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.11 ([3acbd0b](https://github.com/DanySK/khttp/commit/3acbd0bfff442b64bcf08a69f03e5ceb87172c57))
+
 ## [1.4.1](https://github.com/DanySK/khttp/compare/1.4.0...1.4.1) (2023-10-31)
 
 

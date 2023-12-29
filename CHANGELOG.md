@@ -1,3 +1,31 @@
+## [1.4.3](https://github.com/DanySK/khttp/compare/1.4.2...1.4.3) (2023-12-29)
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v1.9.22 ([e6e4aa8](https://github.com/DanySK/khttp/commit/e6e4aa8ccbc69a6f9c44d4790938bb6d991e5971))
+* **deps:** update dependency gradle to v8.5 ([b5aaf91](https://github.com/DanySK/khttp/commit/b5aaf915ed60deb0715db9c26ef588867909623a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.78 ([07c944c](https://github.com/DanySK/khttp/commit/07c944c3b82963beb4f7e3a47b69882c60837ce7))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.79 ([5abd95e](https://github.com/DanySK/khttp/commit/5abd95e81133627b2ee074f6ae3bf0ba637e741d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.80 ([fefc52e](https://github.com/DanySK/khttp/commit/fefc52e81b17ab3fbb912e7bfc128305643ea764))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.81 ([4ac1a71](https://github.com/DanySK/khttp/commit/4ac1a7144100b3c99080b12cb844cd2baed70d82))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.82 ([05c80a7](https://github.com/DanySK/khttp/commit/05c80a7a6c99b336bf3fddf9415f960d52f1ffcd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.83 ([0acdf4e](https://github.com/DanySK/khttp/commit/0acdf4ef081009c8e5629512ab3d9f3d685c81f6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.84 ([c115dab](https://github.com/DanySK/khttp/commit/c115dab4041a899e520bcfa9d3a5f6ab88b5d509))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.85 ([e645186](https://github.com/DanySK/khttp/commit/e645186633661a13ef04fab5c1f10c1f8c2e5d6e))
+* **deps:** update plugin gitsemver to v2.0.3 ([5736944](https://github.com/DanySK/khttp/commit/5736944d2e248b8e5679dc8ee20a71ef0ba10d81))
+* **deps:** update plugin gitsemver to v2.0.4 ([eb1da9b](https://github.com/DanySK/khttp/commit/eb1da9b021cef47807bd6b410c8ab17da707a05f))
+* **deps:** update plugin gitsemver to v2.0.5 ([f74523d](https://github.com/DanySK/khttp/commit/f74523d388594b498d825fb59dd85d2de9b97600))
+* **deps:** update plugin multijvmtesting to v0.5.7 ([7eefac0](https://github.com/DanySK/khttp/commit/7eefac0ba2beb6bc8fb0cae293a26033da390912))
+* **deps:** update plugin publishoncentral to v5.0.20 ([93ed1a3](https://github.com/DanySK/khttp/commit/93ed1a3a9a5841797237762fc6eaa5d8f0aa1511))
+* **deps:** update plugin publishoncentral to v5.0.22 ([a358e1c](https://github.com/DanySK/khttp/commit/a358e1c8ffa703d567f5650b6ef992db627b939a))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.12 ([928fe5f](https://github.com/DanySK/khttp/commit/928fe5ffed3ce58d67ab0850765b563734a43af1))
+* **deps:** update tj-actions/branch-names action to v8 ([c7b4d67](https://github.com/DanySK/khttp/commit/c7b4d67e07c17eec2d57c968c98f4f907598a242))
+
 ## [1.4.2](https://github.com/DanySK/khttp/compare/1.4.1...1.4.2) (2023-11-23)
 
 

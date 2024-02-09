@@ -1,3 +1,34 @@
+## [1.5.0](https://github.com/DanySK/khttp/compare/1.4.3...1.5.0) (2024-02-09)
+
+
+### Dependency updates
+
+* **api-deps:** update dependency org.json:json to v20240205 ([7606ded](https://github.com/DanySK/khttp/commit/7606ded0c80834b3da4e08ade768256180a226ae))
+* **deps:** update dependency gradle to v8.6 ([58d57d5](https://github.com/DanySK/khttp/commit/58d57d5a8dd880c095f66067dd54e1a75eadebfd))
+* **deps:** update node.js to 20.11 ([14d722c](https://github.com/DanySK/khttp/commit/14d722c8e79b4756e8ca945ebacf536a9d3ada5a))
+* **deps:** update plugin gitsemver to v3 ([84081c3](https://github.com/DanySK/khttp/commit/84081c33a3217a08ee785680204879bb4eae3cb0))
+* **deps:** update plugin gitsemver to v3.1.0 ([0a71510](https://github.com/DanySK/khttp/commit/0a71510c16e5c1315e31859c0ea50b52cc6f6b99))
+* **deps:** update plugin gitsemver to v3.1.1 ([c057e40](https://github.com/DanySK/khttp/commit/c057e401fec8198930fe41eabdcee6b8a702318f))
+* **deps:** update plugin multijvmtesting to v0.5.8 ([4994648](https://github.com/DanySK/khttp/commit/499464829bef3e39145cfdcfbd73f28ddec38ee2))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.8.0 ([ab6540a](https://github.com/DanySK/khttp/commit/ab6540a915179913d844ff3aa2e3d0b8a35d6dcd))
+* **deps:** update plugin publishoncentral to v5.0.23 ([d4d2ece](https://github.com/DanySK/khttp/commit/d4d2eceb8bc3925ed03982b06644cf8bb6a90027))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.13 ([b629c0b](https://github.com/DanySK/khttp/commit/b629c0bcea110af1a33c33e3b4366d7f9dbda4c3))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.14 ([a780817](https://github.com/DanySK/khttp/commit/a780817d7e6ad38d14218839548e8c039e86c640))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.15 ([f2f6296](https://github.com/DanySK/khttp/commit/f2f62969377cc6517797f46ff3682ffbd0e86c8f))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.16 ([5abe129](https://github.com/DanySK/khttp/commit/5abe1296b9a000b9d845c8226e736917b89892b0))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.17 ([b565bfe](https://github.com/DanySK/khttp/commit/b565bfed9f4b4dc1f309ae4f58bc00d2e06f7890))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.18 ([da51cfe](https://github.com/DanySK/khttp/commit/da51cfeade674551b24c832d858d2afe2a981d18))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.19 ([5383d0b](https://github.com/DanySK/khttp/commit/5383d0b4b0a4daa577593673a8d17e6f7aa2b71f))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.20 ([ca8a65c](https://github.com/DanySK/khttp/commit/ca8a65cfb8d868305ba2eb43823ba106f95e8480))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.3.0 ([2c8e57d](https://github.com/DanySK/khttp/commit/2c8e57d1278ce8159117f3c97826b73694d85e46))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.3.1 ([6545f9c](https://github.com/DanySK/khttp/commit/6545f9cea70b6e5de70a39c2ec27f13ad1cda0df))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.3.2 ([03bef19](https://github.com/DanySK/khttp/commit/03bef1953bf9842142c37365a21a4eb934b1eead))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.0 ([d7f54b4](https://github.com/DanySK/khttp/commit/d7f54b4ee6bb42657606dd51086aa9d41b4416f4))
+
 ## [1.4.3](https://github.com/DanySK/khttp/compare/1.4.2...1.4.3) (2023-12-29)
 
 

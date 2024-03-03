@@ -1,3 +1,20 @@
+## [1.6.0](https://github.com/DanySK/khttp/compare/1.5.0...1.6.0) (2024-03-03)
+
+
+### Dependency updates
+
+* **api-deps:** update dependency org.json:json to v20240303 ([a37b519](https://github.com/DanySK/khttp/commit/a37b51978e7bb52a337e8d5407b995972cc57e60))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.1 ([aa9efbc](https://github.com/DanySK/khttp/commit/aa9efbc84c4fac6d1c6b0cc4e39e87f24828c357))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.2 ([85b9a03](https://github.com/DanySK/khttp/commit/85b9a0329929507f30829d5dabf5d41b0db75630))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.3 ([4815d91](https://github.com/DanySK/khttp/commit/4815d9116d22f66ef4d70e11c8308da76bb7612b))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.4 ([60363dc](https://github.com/DanySK/khttp/commit/60363dca806220d2e654cd0e07459a60ffad32fa))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.5 ([36307ff](https://github.com/DanySK/khttp/commit/36307ff33b72c070e009a613ab406403fabcfa54))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.6 ([0e1f38b](https://github.com/DanySK/khttp/commit/0e1f38b282975b24742b9af281abfd26c9c9efdb))
+
 ## [1.5.0](https://github.com/DanySK/khttp/compare/1.4.3...1.5.0) (2024-02-09)
 
 

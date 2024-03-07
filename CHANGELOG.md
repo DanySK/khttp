@@ -1,3 +1,13 @@
+## [1.6.1](https://github.com/DanySK/khttp/compare/1.6.0...1.6.1) (2024-03-07)
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v1.9.23 ([8dca140](https://github.com/DanySK/khttp/commit/8dca1409ede7530dc8867021d111cabbbd44a02a))
+* **deps:** update plugin dokka to v1.9.20 ([0892e82](https://github.com/DanySK/khttp/commit/0892e8293a05930104c347130bae89efe1e54fef))
+* **deps:** update plugin gitsemver to v3.1.2 ([b886159](https://github.com/DanySK/khttp/commit/b886159527f63918a2e52b034ea5a891928ba724))
+* **deps:** update plugin publishoncentral to v5.0.24 ([cd1d86c](https://github.com/DanySK/khttp/commit/cd1d86c0b9a613ed1e7397c2007eab1990c1bb6d))
+
 ## [1.6.0](https://github.com/DanySK/khttp/compare/1.5.0...1.6.0) (2024-03-03)
 
 

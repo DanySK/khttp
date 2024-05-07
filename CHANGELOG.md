@@ -1,3 +1,38 @@
+## [1.6.2](https://github.com/DanySK/khttp/compare/1.6.1...1.6.2) (2024-05-07)
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v1.9.24 ([02fb562](https://github.com/DanySK/khttp/commit/02fb56278cb7b62aae44655133cc01cf650e6960))
+* **deps:** update dependency gradle to v8.7 ([ae1917b](https://github.com/DanySK/khttp/commit/ae1917b7302aca57702c3f3c4ddfe4fe4872793c))
+* **deps:** update dependency org.awaitility:awaitility-kotlin to v4.2.1 ([9cc9009](https://github.com/DanySK/khttp/commit/9cc9009684601b2066fcf8c843bee0bf9b52b2b3))
+* **deps:** update node.js to 20.12 ([635ba06](https://github.com/DanySK/khttp/commit/635ba068d4025d4aa7f4d5ef1cf5d6e6d7a238c0))
+* **deps:** update plugin gitsemver to v3.1.3 ([e36e207](https://github.com/DanySK/khttp/commit/e36e20790dd398b39a2cf719f987c4afb8c0ef5e))
+* **deps:** update plugin gitsemver to v3.1.4 ([4445790](https://github.com/DanySK/khttp/commit/4445790952acf03fcdfa490664996be17c079b49))
+* **deps:** update plugin publishoncentral to v5.0.25 ([1cbd1f3](https://github.com/DanySK/khttp/commit/1cbd1f31d184d396e5ed7a032852639841777975))
+* **deps:** update plugin publishoncentral to v5.0.26 ([1bdcf2f](https://github.com/DanySK/khttp/commit/1bdcf2fa3891d2da14763237119cc9492250c14c))
+* **deps:** update plugin publishoncentral to v5.1.0 ([c09d80b](https://github.com/DanySK/khttp/commit/c09d80ba176d838506c7af68161aac6f8c86d9fc))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.3 ([eb30ca5](https://github.com/DanySK/khttp/commit/eb30ca597515593daf7ac52d9a62e231851663f7))
+* **deps:** update actions/checkout action to v4.1.4 ([955747c](https://github.com/DanySK/khttp/commit/955747cfd685d17f5590a010a2b708a3f0ec0f22))
+* **deps:** update danysk/action-checkout action to v0.2.15 ([ada05e8](https://github.com/DanySK/khttp/commit/ada05e8d3c712c60da8c4207ece8a10e6d7f5d80))
+* **deps:** update danysk/action-checkout action to v0.2.16 ([20c259d](https://github.com/DanySK/khttp/commit/20c259dc2827b6597990bfde7457fd81f86a77e4))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.10 ([f46506c](https://github.com/DanySK/khttp/commit/f46506c0d486e4dd471c5b2bad94f90669ad88d3))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.11 ([340a37e](https://github.com/DanySK/khttp/commit/340a37e7830b277ce2111e26c8a1f7c4e26c0c7e))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.12 ([96ee012](https://github.com/DanySK/khttp/commit/96ee012566f77c576250bd12ad22baa1ddc3997f))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.13 ([2a6a2d6](https://github.com/DanySK/khttp/commit/2a6a2d6e7eb2c6830894a69130e05d16b5e1e04b))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.14 ([a2b2a98](https://github.com/DanySK/khttp/commit/a2b2a9863f36ba8cd0f844cc7f7e06826ed10d64))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.15 ([e1a7136](https://github.com/DanySK/khttp/commit/e1a7136bf557c21ef2d83c896b2b0dd322db0bb8))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.16 ([dcdc572](https://github.com/DanySK/khttp/commit/dcdc57206b49874cdbd57445499fc11187f66ab9))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.17 ([cc7f396](https://github.com/DanySK/khttp/commit/cc7f3968c0cf07db90392127a8a138bbd859b972))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.18 ([38895c8](https://github.com/DanySK/khttp/commit/38895c821c9fdf13d94390982b90d84179127df3))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.7 ([0c11bc8](https://github.com/DanySK/khttp/commit/0c11bc899039805e03cfc2660e8ca3048cfa5760))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.8 ([b4bda37](https://github.com/DanySK/khttp/commit/b4bda3725fd57c73aacbf715d8e462d5d90348b0))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.9 ([e618762](https://github.com/DanySK/khttp/commit/e618762292638783388abd6c5598ffc173a0a0bc))
+
 ## [1.6.1](https://github.com/DanySK/khttp/compare/1.6.0...1.6.1) (2024-03-07)
 
 

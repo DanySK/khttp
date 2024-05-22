@@ -1,3 +1,24 @@
+## [1.6.3](https://github.com/DanySK/khttp/compare/1.6.2...1.6.3) (2024-05-22)
+
+
+### Dependency updates
+
+* **core-deps:** update plugin kotlin-jvm to v2 ([d1da6e8](https://github.com/DanySK/khttp/commit/d1da6e8625caf91f137d99a9878a7ee4e6bb5d16))
+* **deps:** update node.js to 20.13 ([1c97d0c](https://github.com/DanySK/khttp/commit/1c97d0c9c6b32fce006d01f0df2b0dd9f73410e8))
+* **deps:** update plugin gitsemver to v3.1.5 ([2e6773c](https://github.com/DanySK/khttp/commit/2e6773c885ecb10ddff0e4b4c5c7d1670f0e4c23))
+* **deps:** update plugin gitsemver to v3.1.6 ([4b57fb2](https://github.com/DanySK/khttp/commit/4b57fb227920223537ad352208af3462d446eca1))
+* **deps:** update plugin publishoncentral to v5.1.1 ([30f2936](https://github.com/DanySK/khttp/commit/30f2936409a60fb77587ecbe2899dc3a3cbf3c3a))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.5 ([a79dabc](https://github.com/DanySK/khttp/commit/a79dabc55935fa0374b260eb7208c076d39550e0))
+* **deps:** update actions/checkout action to v4.1.6 ([17b3f32](https://github.com/DanySK/khttp/commit/17b3f32af9a61084856da8f04646e02f391dbf41))
+* **deps:** update danysk/action-checkout action to v0.2.17 ([1d83e56](https://github.com/DanySK/khttp/commit/1d83e5632dcca35128b88f6eac16ef5bb2ffb319))
+* **deps:** update danysk/action-checkout action to v0.2.18 ([f9097b2](https://github.com/DanySK/khttp/commit/f9097b2a5e863401f0044c46431aadc1cc6dfddd))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.19 ([abc87be](https://github.com/DanySK/khttp/commit/abc87bef984c06c04195394f8841ef5c4126081a))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.20 ([61c41e0](https://github.com/DanySK/khttp/commit/61c41e04883c5a7a4f81ebfe07437493b33be873))
+
 ## [1.6.2](https://github.com/DanySK/khttp/compare/1.6.1...1.6.2) (2024-05-07)
 
 

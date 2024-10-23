@@ -52,7 +52,7 @@ jobs:
       && contains(github.repository, 'DanySK/khttp')
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.2.1
+        uses: actions/checkout@v4.2.2
       - uses: DanySK/build-check-deploy-gradle-action@3.5.11
         with:
           java-version: 17

@@ -9,7 +9,7 @@ spek-runner-junit5 = { module = "org.spekframework.spek2:spek-runner-junit5", ve
 
 [plugins]
 dokka = "org.jetbrains.dokka:2.0.0"
-gitSemVer = "org.danilopianini.git-sensitive-semantic-versioning:5.1.4"
+gitSemVer = "org.danilopianini.git-sensitive-semantic-versioning:5.1.5"
 kotlin-jvm = "org.jetbrains.kotlin.jvm:2.0.21"
 multiJvmTesting = "org.danilopianini.multi-jvm-test-plugin:2.0.0"
 publishOnCentral = "org.danilopianini.publish-on-central:6.0.0"

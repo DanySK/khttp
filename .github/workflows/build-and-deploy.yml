@@ -27,7 +27,7 @@ jobs:
       - name: Get branch name
         id: branch
         uses: tj-actions/branch-names@v9
-      - uses: DanySK/build-check-deploy-gradle-action@4.0.20
+      - uses: DanySK/build-check-deploy-gradle-action@4.0.21
         with:
           deploy-command: |
             ./gradlew signKotlinOSSRHPublication --parallel
@@ -53,7 +53,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6.0.2
-      - uses: DanySK/build-check-deploy-gradle-action@4.0.20
+      - uses: DanySK/build-check-deploy-gradle-action@4.0.21
         with:
           java-version: 17
           build-command: true

@@ -118,7 +118,9 @@ class GenericRequest internal constructor(
                     // Add the files
                     files.forEach {
                         writer.writeAndFlush("--$boundary\r\n")
-                        writer.writeAndFlush("Content-Disposition: form-data; name=\"${it.fieldName}\"; filename=\"${it.fileName}\"\r\n\r\n")
+                        writer.writeAndFlush("Content-Disposition: form-data; name=\"${it.fieldName}\"; filename=\"${it.fileName}\"\r\n")
+                        it.contentType?.let { type -> writer.writeAndFlush("Content-Type: ${type}\r\n") }
+                        writer.writeAndFlush("\r\n")
                         bytes.write(it.contents)
                         writer.writeAndFlush("\r\n")
                     }
